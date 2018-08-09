@@ -24,14 +24,14 @@ div{
 }
 .eyes{
 	width: 80%;
-	height: 30%;
+	height: 100px;
 	border: 1px dashed #aaa;
-	margin: 20% auto;
+	margin: 30% auto 0 auto;
 }
 .eye{
-	background-color: #3b3b3b;
-	width: 120px;
-	height: 100%;
+	background-color: #1d1d1d;
+	width: 100px;
+	height: 100px;
 	border-radius: 50%;
 }
 .eye.left{
@@ -45,10 +45,11 @@ div{
 	width: 50px;
 	height: 50px;
 	border-radius: 50%;
-	margin: 35px;
+	margin: 25px;
 }
 .mouth{
-	width: 60%;
-	border: 10px solid #000000;
-	margin: auto;
+	width: 50%;
+	border: 20px solid #000000;
+	margin: 10% auto;
+	border-radius: 50%;
 }
